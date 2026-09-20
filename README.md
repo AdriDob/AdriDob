@@ -53,6 +53,13 @@ Bug bounty automation pipeline — discover→recon→hypothesis→validation→
 - **Reasoning**: 5 vulnerability types with Hypothesis Challenger
 - **Evidence**: Structured composer with integrity verification
 
+### 🛰️ [ReconForge](https://github.com/AdriDob/ReconForge)
+Asset discovery, subdomain enumeration, HTTP analysis and security-tool orchestration. Stdlib-only core; external binaries degrade gracefully. Extracted as a standalone MIT package.
+
+- **Stack**: Python 3.11+, zero runtime dependencies
+- **Tools**: subfinder, amass, gau, httpx, naabu, nuclei and more behind one `BaseTool` interface
+- **Tests**: 67 passing, zero network, zero keys
+
 ---
 
 ## Technical Stack
