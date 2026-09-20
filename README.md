@@ -38,6 +38,14 @@ Autonomous Work Operating System — opportunity discovery, security automation,
 - **Desktop**: Tauri v2 (deb/rpm/AppImage)
 - **Mobile**: Capacitor Android
 
+### 🤖 [LocalAI-Gateway](https://github.com/AdriDob/LocalAI-Gateway)
+Unified AI provider operating system — local-first routing by task type, cost tracking with $0 default budget, circuit-breaker failover, semantic cache. Extracted as a standalone MIT package.
+
+- **Stack**: Python 3.11+, httpx, click
+- **Providers**: Ollama (local), OpenAI-compatible remotes (OpenRouter, Groq, Together, DeepInfra, Cerebras, NVIDIA NIM)
+- **Tests**: 15 passing, zero network, zero keys
+- **CLI**: `localai-doctor` diagnostics
+
 ### 🔍 [Rastro](https://github.com/AdriDob/OWNEX/tree/main/cores/cycles/security)
 Bug bounty automation pipeline — discover→recon→hypothesis→validation→evidence→report with economic prioritization.
 
