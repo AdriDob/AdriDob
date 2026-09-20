@@ -67,6 +67,13 @@ Departmental workflow orchestration: engine, handoffs, event-driven coordination
 - **Model**: departments as handoff targets (Architecture → Coding → QA), 12 default conditions
 - **Tests**: 6 passing, offline
 
+### 🌉 [legacy-bridge-perl](https://github.com/AdriDob/legacy-bridge-perl)
+Backend integration service in Perl + PostgreSQL-compatible SQL: REST JSON clients, legacy SOAP/XML parsing, record normalization and DB-to-DB sync/migration.
+
+- **Stack**: Perl 5.40, DBI (+DBD::Pg prod / DBD::SQLite tests), XML::Parser
+- **Tests**: 17 passing, local fixtures only, zero network
+- **License**: MIT
+
 ---
 
 ## Technical Stack
