@@ -144,7 +144,7 @@ me.build()  # → OWNEX, ReconForge, LocalAI-Gateway, AgentFlow...
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AdriDob-181717?style=for-the-badge&logo=github)](https://github.com/AdriDob)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adrieldobrzycki-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adriel-dobal-b01b17279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adrieldobal-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adriel-dobal-b01b17279/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-adrieldob-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/adrieldob)
 [![Email](https://img.shields.io/badge/Email-adrieldob@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:adrieldobal@gmail.com)
 
