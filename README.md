@@ -60,6 +60,13 @@ Asset discovery, subdomain enumeration, HTTP analysis and security-tool orchestr
 - **Tools**: subfinder, amass, gau, httpx, naabu, nuclei and more behind one `BaseTool` interface
 - **Tests**: 67 passing, zero network, zero keys
 
+### 🔀 [AgentFlow](https://github.com/AdriDob/AgentFlow)
+Departmental workflow orchestration: engine, handoffs, event-driven coordination. Stdlib-only, zero dependencies. Extracted as a standalone MIT package.
+
+- **Stack**: Python 3.11+, zero runtime dependencies
+- **Model**: departments as handoff targets (Architecture → Coding → QA), 12 default conditions
+- **Tests**: 6 passing, offline
+
 ---
 
 ## Technical Stack
