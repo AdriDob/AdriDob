@@ -92,6 +92,12 @@ me.build()  # → OWNEX, ReconForge, LocalAI-Gateway, AgentFlow...
 - **Stack**: Python 3.11+, zero runtime deps | **Model**: Architecture → Coding → QA, 12 handoff conditions
 - **Tests**: 6 passing, offline | **License**: MIT
 
+### 📝 [ReportSmith](https://github.com/AdriDob/ReportSmith)
+> Technical security report generation: templates, critic, optimizer, acceptance learning. Stdlib-only.
+
+- **Stack**: Python 3.11+, zero runtime deps | **Model**: Markdown reports + CVSS/CWE, rule-based review
+- **Tests**: 45 passing, offline | **License**: MIT
+
 ### 🌉 [legacy-bridge-perl](https://github.com/AdriDob/legacy-bridge-perl)
 > Backend integration in Perl + PostgreSQL SQL: REST JSON, legacy SOAP/XML, DB-to-DB sync/migration.
 
