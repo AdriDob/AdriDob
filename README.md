@@ -98,6 +98,12 @@ me.build()  # → OWNEX, ReconForge, LocalAI-Gateway, AgentFlow...
 - **Stack**: Python 3.11+, zero runtime deps | **Model**: Markdown reports + CVSS/CWE, rule-based review
 - **Tests**: 45 passing, offline | **License**: MIT
 
+### 🎯 [IDOR-Lab](https://github.com/AdriDob/IDOR-Lab)
+> Intentionally vulnerable multi-tenant API for practicing IDOR methodology locally — 3 labs + fixed reference. Stdlib-only.
+
+- **Stack**: Python 3.10+, zero runtime deps | **Model**: role×object×method matrix, 2-account diffing
+- **Tests**: 6 passing (exploits + negatives), loopback only | **License**: MIT
+
 ### 🌉 [legacy-bridge-perl](https://github.com/AdriDob/legacy-bridge-perl)
 > Backend integration in Perl + PostgreSQL SQL: REST JSON, legacy SOAP/XML, DB-to-DB sync/migration.
 
