@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdriDob/AdriDob/main/profile_header.png"/>
-    <img src="https://raw.githubusercontent.com/AdriDob/AdriDob/main/profile_header.png" alt="Adriel Dobrzycki — Full-Stack Developer" width="100%"/>
+    <img src="https://raw.githubusercontent.com/AdriDob/AdriDob/main/profile_header.png" alt="Adriel Dobal — Software Engineer" width="100%"/>
   </picture>
 </p>
 
