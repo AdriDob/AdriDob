@@ -1,15 +1,18 @@
 # Hi, I'm Adriel 👋
 
-**Junior Software Developer | Python Automation | Backend Systems | API Security**
+**Junior Software Developer | Python Automation | Backend Systems | API Security**  
+Buenos Aires, Argentina
 
-I build practical software focused on automation, backend services, API integrations, and tools that reduce repetitive work. My public work is primarily independent project development, with an emphasis on clear architecture, reproducible tests, and honest documentation.
+I build practical software focused on automation, backend services, API integrations, and application-security workflows. My public work is primarily independent project development, with an emphasis on clear architecture, reproducible tests, and honest documentation.
 
 <p align="center">
   <a href="https://github.com/AdriDob/OWNEX"><img src="https://img.shields.io/badge/Featured%20Project-OWNEX-181717?style=for-the-badge&logo=github" alt="OWNEX"/></a>
-  <a href="CV.md"><img src="https://img.shields.io/badge/Resume-English-1f6feb?style=for-the-badge" alt="English CV"/></a>
-  <a href="CV.es.md"><img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-2ea44f?style=for-the-badge" alt="CV en español"/></a>
+  <a href="CV.md"><img src="https://img.shields.io/badge/Software%20CV-English-1f6feb?style=for-the-badge" alt="English software CV"/></a>
+  <a href="CV.es.md"><img src="https://img.shields.io/badge/Traducir%20CV-Espa%C3%B1ol-2ea44f?style=for-the-badge" alt="CV en español"/></a>
   <a href="https://www.linkedin.com/in/adriel-dobal-b01b17279/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
+
+**CV language:** [🇬🇧 English](CV.md) · [🇪🇸 Español](CV.es.md)
 
 ## About
 
@@ -35,7 +38,7 @@ I build practical software focused on automation, backend services, API integrat
 ## Featured projects
 
 ### [OWNEX](https://github.com/AdriDob/OWNEX)
-A local-first work and income operating system in active development.
+A local-first personal work and income operating system in active development.
 
 - Opportunity discovery, source evaluation, scoring, and work preparation.
 - Income ledger separating potential, expected, pending, and paid amounts.
