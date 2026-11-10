@@ -5,7 +5,9 @@ Buenos Aires, Argentina
 GitHub: https://github.com/AdriDob  
 LinkedIn: https://www.linkedin.com/in/adriel-dobal-b01b17279/
 
-[🇬🇧 Read this CV in English](CV.md)
+<p align="left">
+  <a href="CV.md"><img src="https://img.shields.io/badge/Traducir%20CV-English-1f6feb?style=for-the-badge" alt="View CV in English"/></a>
+</p>
 
 ## Perfil Profesional
 
